@@ -10,7 +10,7 @@ I'm interested in the interplay between important technologies and foundational 
 
 | Project | Description |
 |---------|-------------|
-| [claude-lessons]([https://github.com/xiaolong-y/cost_sentinel](https://github.com/xiaolong-y/claude-lessons)) | Humans and agents can both learn from claude code sessions |
+| [claude-lessons](https://github.com/xiaolong-y/claude-lessons) | Humans and agents can both learn from claude code sessions |
 | [meridian](https://github.com/xiaolong-y/meridian) | Personal macro & tech intelligence dashboard |
 | [oura-ring-analysis](https://github.com/xiaolong-y/oura-ring-analysis) | What do I learn from oura? Some Bayesian sleep analysis, circadian patterns, cardiovascular metrics |
 | [eq](https://github.com/xiaolong-y/eq) | CLI tool to log your tasks |
