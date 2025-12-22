@@ -14,7 +14,6 @@ I'm interested in the interplay between important technologies and foundational 
 | [meridian](https://github.com/xiaolong-y/meridian) | Personal macro & tech intelligence dashboard |
 | [oura-ring-analysis](https://github.com/xiaolong-y/oura-ring-analysis) | What do I learn from oura? Some Bayesian sleep analysis, circadian patterns, cardiovascular metrics |
 | [eq](https://github.com/xiaolong-y/eq) | CLI tool to log your tasks |
-| [blockchain-edu](https://github.com/xiaolong-y/blockchain-edu) | Blockchain in code |
 
 ## Academic Work
 
