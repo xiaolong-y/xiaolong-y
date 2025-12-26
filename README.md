@@ -6,17 +6,18 @@ I'm interested in the interplay between important technologies and foundational 
 
 ---
 
-## Current Projects
+## I tinker & explore 
 
 | Project | Description |
 |---------|-------------|
-| [kanban](https://github.com/xiaolong-y/kanban) | built a kanban to appreciate the beauty of a simple and powerful system |
+| [eq](https://github.com/xiaolong-y/eq) | CLI tool to log your tasks |
 | [claude-lessons](https://github.com/xiaolong-y/claude-lessons) | Humans and agents can both learn from claude code sessions |
 | [meridian](https://github.com/xiaolong-y/meridian) | Personal macro & tech intelligence dashboard |
 | [oura-ring-analysis](https://github.com/xiaolong-y/oura-ring-analysis) | What do I learn from oura? Some Bayesian sleep analysis, circadian patterns, cardiovascular metrics |
-| [eq](https://github.com/xiaolong-y/eq) | CLI tool to log your tasks |
+| [kanban](https://github.com/xiaolong-y/kanban) | built a kanban to appreciate the beauty of a simple and powerful system |
 
-## Academic Work
+
+## I collaborate with academic researchers and open source communities 
 
 | Project | Description |
 |---------|-------------|
