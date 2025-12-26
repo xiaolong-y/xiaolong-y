@@ -17,7 +17,7 @@ I'm interested in the interplay between important technologies and foundational 
 | [kanban](https://github.com/xiaolong-y/kanban) | built a kanban to appreciate the beauty of a simple and powerful system |
 
 
-## I collaborate with academic researchers and open source communities 
+## I learn to collaborate, research & teach 
 
 | Project | Description |
 |---------|-------------|
