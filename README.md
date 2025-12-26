@@ -10,6 +10,7 @@ I'm interested in the interplay between important technologies and foundational 
 
 | Project | Description |
 |---------|-------------|
+| [kanban](https://github.com/xiaolong-y/kanban) | built a kanban to appreciate the beauty of a simple and powerful system |
 | [claude-lessons](https://github.com/xiaolong-y/claude-lessons) | Humans and agents can both learn from claude code sessions |
 | [meridian](https://github.com/xiaolong-y/meridian) | Personal macro & tech intelligence dashboard |
 | [oura-ring-analysis](https://github.com/xiaolong-y/oura-ring-analysis) | What do I learn from oura? Some Bayesian sleep analysis, circadian patterns, cardiovascular metrics |
