@@ -5,6 +5,13 @@ G2 graduate student at Harvard's [Regional Studies - East Asia](https://rsea.fas
 I'm interested in the interplay between important technologies and foundational human systems.
 
 ---
+## I learn to collaborate, research & teach 
+
+| Project | Description |
+|---------|-------------|
+| [evalITR](https://github.com/MichaelLLi/evalITR) | R package for causal ML — heterogeneous treatment effects |
+| [R Markdown Guide](https://cosname.github.io/rmarkdown-guide/) | Open-source book on R Markdown (Chinese) |
+| [QSS Tidyverse](https://github.com/xiaolong-y/qss-inst-tidyverse) | Teaching materials for QSS course at UTokyo |
 
 ## I tinker & explore 
 
@@ -16,14 +23,6 @@ I'm interested in the interplay between important technologies and foundational 
 | [oura-ring-analysis](https://github.com/xiaolong-y/oura-ring-analysis) | What do I learn from oura? Some Bayesian sleep analysis, circadian patterns, cardiovascular metrics |
 | [kanban](https://github.com/xiaolong-y/kanban) | built a kanban to appreciate the beauty of a simple and powerful system |
 
-
-## I learn to collaborate, research & teach 
-
-| Project | Description |
-|---------|-------------|
-| [evalITR](https://github.com/MichaelLLi/evalITR) | R package for causal ML — heterogeneous treatment effects |
-| [R Markdown Guide](https://cosname.github.io/rmarkdown-guide/) | Open-source book on R Markdown (Chinese) |
-| [QSS Tidyverse](https://github.com/xiaolong-y/qss-inst-tidyverse) | Teaching materials for QSS course at UTokyo |
 
 ---
 
